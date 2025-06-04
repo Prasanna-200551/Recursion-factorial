@@ -1,4 +1,4 @@
-class RecursionDemo.3{
+class Reverse{
     static String reverse(String Str){
         if(Str.isEmpty()){
             return Str;
