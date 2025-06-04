@@ -1,4 +1,4 @@
-public class RecursionDemo.1{
+public class sumofnaturalnumber{
     static int sumnaturalnumbers(int n){
         if(n<=1){
             return 1;
